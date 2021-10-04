@@ -1,8 +1,8 @@
-# SMS Gratis
+# SMS GRATIS
 ![image](https://github.com/M4rv3l1Ganz404.png?size=100)
 SMS Gratis Menggunakan Api Web sms.payuterus.biz
 
-## Cara Install
+## INSTALL FOR TERMUX
 ```bash
 > pkg install git
 > pkg install python
